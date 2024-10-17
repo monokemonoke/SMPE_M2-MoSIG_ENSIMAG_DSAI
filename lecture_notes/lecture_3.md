@@ -431,3 +431,12 @@ plot '${FILENAME}_wide.csv' using 1:2 with linespoints, '' using 1:3 with linesp
 " | gnuplot
 open data/eduroam-054238.grenet.fr_2024-10-17/measurements_15:37_wide3.png
 ```
+
+- Imagine all the bad thing before doing experiments
+- Randomize the trials
+
+- device
+    - OS
+    - application version (s)
+    - libraries (ggplot)
+- order
