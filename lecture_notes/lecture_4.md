@@ -12,3 +12,5 @@
 - legal
 - ethical
 - sustainability
+
+- [https://github.com/cboettig/noise-phenomena/tree/master?tab=readme-ov-file](https://github.com/cboettig/noise-phenomena/tree/master?tab=readme-ov-file)
