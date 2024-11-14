@@ -40,6 +40,11 @@
         - if you want the best estimation, you should use extreme values of X
     - residual study
         - e.g. sociology
+- Goodness of fit measure: R^2
+    $$
+    R^2 = 1 - \frac{SSE}{SST} = 1 - \frac{\sum (y_i - \hat{y}(x_i))^2 }{ \sum(y_i - \bar{y})^2 }
+    $$
+- confidence interval
 
 ## Extentions Linear Model
 <!-- ANOVA コントロールできない要因に対して対応する -->
