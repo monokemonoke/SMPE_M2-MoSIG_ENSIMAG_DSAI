@@ -49,3 +49,27 @@
 ## Extentions Linear Model
 <!-- ANOVA コントロールできない要因に対して対応する -->
 
+---
+
+
+# Sicentific Publicasion and Sicentific Integrity
+
+## Of publications and knowledge
+
+- journals as a way to build knowledge
+    - started in 1665
+        - Paris: Journal des scavans
+        - London: Philosophical Transactions of the royal ...
+    - aim:
+        - written by and for specialists
+        - cites
+    - traditional, gold open access
+
+## Different kinds of venue
+- accounting units    
+
+- analyze
+    - not to focus on the details
+    - not to be critical
+    - cite
+    - what was new
