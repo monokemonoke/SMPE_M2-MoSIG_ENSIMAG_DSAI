@@ -26,6 +26,16 @@
     - R DoE library
     - csv file with the list of experiments to run
     - experiment engine
-    - data and meta-data for each experiments
+        - script that reads (input_csv) and outputs (data and meta-data)
+    - data and **meta-data** for each experiments
     - csv file with the experiment results
     - R
+
+- example
+    - environemnt
+    - physical metrics
+        - memory
+        - cpu
+    - time
+    - collect as much information as possible
+        - it will be worth when something weired with the experiments.
