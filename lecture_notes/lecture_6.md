@@ -41,6 +41,7 @@
     - residual study
         - e.g. sociology
 - Goodness of fit measure: R^2
+    - ノイズの指標を表している (updated 21/11/2024)
     $$
     R^2 = 1 - \frac{SSE}{SST} = 1 - \frac{\sum (y_i - \hat{y}(x_i))^2 }{ \sum(y_i - \bar{y})^2 }
     $$
